@@ -19,3 +19,6 @@ This file suits well for me with my instance running on Vast, but it's still exp
 
 
 **/!\ This file has been fed with fake data, for example, do not compare your result with.**
+
+
+The file is an xlsx file, that you can download from this repository ([Nimble community dashboard.xlsx](https://github.com/Cl0dev/nimble-instances-dashboard/blob/main/Nimble%20community%20dashboard.xlsx))
